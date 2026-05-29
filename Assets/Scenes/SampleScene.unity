@@ -2590,7 +2590,7 @@ GameObject:
   - component: {fileID: 619973738}
   - component: {fileID: 619973737}
   m_Layer: 0
-  m_Name: Piso (1)
+  m_Name: Techo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
