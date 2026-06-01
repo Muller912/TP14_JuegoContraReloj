@@ -10,7 +10,17 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI texto_timer;
     float tiempo;
     public ColisionJugador ColisionJugador;
+    public GameObject winPanel;
+    public GameObject gameOverPanel;
+
     // Start is called before the first frame update
+    public void MostrarPantallaWin(){
+    winPanel.SetActive(true);
+   }
+
+    public void MostrarPantallaGameOver(){
+    gameOverPanel.SetActive(true);
+   }
     void Start()
     {
         
