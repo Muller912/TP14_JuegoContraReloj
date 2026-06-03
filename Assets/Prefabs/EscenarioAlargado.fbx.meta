@@ -1,38 +1,38 @@
 fileFormatVersion: 2
-guid: 08f7e8cb1dd3a6b4c805487dc4d674f2
+guid: 45e7ef81219a6a043be804c5c87b5781
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Bandeja
-    100002: //RootNode
-    100004: KioskoBase
-    100006: Pared 1
-    100008: Pared 1.001
-    100010: Pared 1.002
-    100012: Pared 1.003
-    100014: Pared 1.004
-    100016: Piso
-    100018: Piso negro
-    100020: Piso.001
-    100022: PisoNegro2
-    100024: PisoNegro3
-    100026: Vidriera 2
+    100002: Cube
+    100004: //RootNode
+    100006: KioskoBase
+    100008: Pared 1
+    100010: Pared 1.001
+    100012: Pared 1.002
+    100014: Pared 1.003
+    100016: Pared 1.004
+    100018: Piso
+    100020: Piso negro
+    100022: Piso.001
+    100024: PisoNegro2
+    100026: PisoNegro3
     100028: Vidriera 3
     100030: Vidriera1
     400000: Bandeja
-    400002: //RootNode
-    400004: KioskoBase
-    400006: Pared 1
-    400008: Pared 1.001
-    400010: Pared 1.002
-    400012: Pared 1.003
-    400014: Pared 1.004
-    400016: Piso
-    400018: Piso negro
-    400020: Piso.001
-    400022: PisoNegro2
-    400024: PisoNegro3
-    400026: Vidriera 2
+    400002: Cube
+    400004: //RootNode
+    400006: KioskoBase
+    400008: Pared 1
+    400010: Pared 1.001
+    400012: Pared 1.002
+    400014: Pared 1.003
+    400016: Pared 1.004
+    400018: Piso
+    400020: Piso negro
+    400022: Piso.001
+    400024: PisoNegro2
+    400026: PisoNegro3
     400028: Vidriera 3
     400030: Vidriera1
     2100000: Material.002
@@ -44,33 +44,33 @@ ModelImporter:
     2100012: Material.004
     2100014: Material.005
     2300000: Bandeja
-    2300002: KioskoBase
-    2300004: Pared 1
-    2300006: Pared 1.001
-    2300008: Pared 1.002
-    2300010: Pared 1.003
-    2300012: Pared 1.004
-    2300014: Piso
-    2300016: Piso negro
-    2300018: Piso.001
-    2300020: PisoNegro2
-    2300022: PisoNegro3
-    2300024: Vidriera 2
+    2300002: Cube
+    2300004: KioskoBase
+    2300006: Pared 1
+    2300008: Pared 1.001
+    2300010: Pared 1.002
+    2300012: Pared 1.003
+    2300014: Pared 1.004
+    2300016: Piso
+    2300018: Piso negro
+    2300020: Piso.001
+    2300022: PisoNegro2
+    2300024: PisoNegro3
     2300026: Vidriera 3
     2300028: Vidriera1
     3300000: Bandeja
-    3300002: KioskoBase
-    3300004: Pared 1
-    3300006: Pared 1.001
-    3300008: Pared 1.002
-    3300010: Pared 1.003
-    3300012: Pared 1.004
-    3300014: Piso
-    3300016: Piso negro
-    3300018: Piso.001
-    3300020: PisoNegro2
-    3300022: PisoNegro3
-    3300024: Vidriera 2
+    3300002: Cube
+    3300004: KioskoBase
+    3300006: Pared 1
+    3300008: Pared 1.001
+    3300010: Pared 1.002
+    3300012: Pared 1.003
+    3300014: Pared 1.004
+    3300016: Piso
+    3300018: Piso negro
+    3300020: Piso.001
+    3300022: PisoNegro2
+    3300024: PisoNegro3
     3300026: Vidriera 3
     3300028: Vidriera1
     4300000: Piso
@@ -82,12 +82,12 @@ ModelImporter:
     4300012: KioskoBase
     4300014: Vidriera1
     4300016: Vidriera 3
-    4300018: Vidriera 2
-    4300020: Bandeja
-    4300022: Piso negro
-    4300024: PisoNegro2
-    4300026: PisoNegro3
-    4300028: Piso.001
+    4300018: Bandeja
+    4300020: Piso negro
+    4300022: PisoNegro2
+    4300024: PisoNegro3
+    4300026: Piso.001
+    4300028: Cube
   externalObjects: {}
   materials:
     importMaterials: 1
