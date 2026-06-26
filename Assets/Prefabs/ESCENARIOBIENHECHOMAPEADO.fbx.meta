@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 4a2595babc89be04b8fac7aaec5ea54b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PAREDES
+    100004: PISO
+    100006: TECHO
+    100008: VENTANA
+    100010: VENTANA.001
+    100012: VENTANA.002
+    100014: VENTANA.003
+    400000: //RootNode
+    400002: PAREDES
+    400004: PISO
+    400006: TECHO
+    400008: VENTANA
+    400010: VENTANA.001
+    400012: VENTANA.002
+    400014: VENTANA.003
+    2100000: LADRILLO
+    2100002: PAREDES
+    2100004: ventana
+    2100006: marco
+    2100008: PISO.001
+    2300000: PAREDES
+    2300002: PISO
+    2300004: TECHO
+    2300006: VENTANA
+    2300008: VENTANA.001
+    2300010: VENTANA.002
+    2300012: VENTANA.003
+    3300000: PAREDES
+    3300002: PISO
+    3300004: TECHO
+    3300006: VENTANA
+    3300008: VENTANA.001
+    3300010: VENTANA.002
+    3300012: VENTANA.003
+    4300000: PAREDES
+    4300002: VENTANA
+    4300004: VENTANA.001
+    4300006: VENTANA.002
+    4300008: VENTANA.003
+    4300010: TECHO
+    4300012: PISO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LADRILLO
+    second: {fileID: 2100000, guid: c7212b1259606b140a356511c65fc764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PAREDES
+    second: {fileID: 2100000, guid: c8da1c1f226f3794eaa73bfed50a1767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PISO.001
+    second: {fileID: 2100000, guid: 79c0260bdee4e3f47a920a4cced72fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marco
+    second: {fileID: 2100000, guid: 8866d256d669caf4a8fe04dae568aa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana
+    second: {fileID: 2100000, guid: ea4554163c9c30044945da2a22647dcd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MaterialLadrillo
+    second: {fileID: 2800000, guid: 31e5419cd3bc5624b91a21015bb0221a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MaterialPiso
+    second: {fileID: 2800000, guid: 568fe962ff4987d42a3994863860f96d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
